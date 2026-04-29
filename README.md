@@ -1,2 +1,3 @@
 # idealism_and_materialism_compared_empirically_through_simulation
 This was for a Term Paper assignment from philosophy class, since I am quirky and wanted to prove which philosophical worldview is truly more "economical" (efficient).
+For anyone not adept at coding, please make sure to have an Interactive Development Environment (IDE) installed (I used VSCode, which I recommend as well), open "run_full_sim.py", and hit the built-in play button in your IDE. Follow the instruction prompts in the terminal from there, and be prepared to have data exported onto your computer.
